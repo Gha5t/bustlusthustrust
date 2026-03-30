@@ -8,7 +8,7 @@
 
 **Play epic browser games at school. Zero downloads. Zero blocks. Pure freedom.**
 
-[![Visit Site](https://img.shields.io/badge/PLAY%20NOW-00FF9D?style=for-the-badge&logo=playstation&logoColor=black)](https://homeworkplanet.github.io)
+[![Visit Site](https://img.shields.io/badge/PLAY%20NOW-00FF9D?style=for-the-badge&logo=playstation&logoColor=black)](https://gha5t.github.io/bustlusthustrust)
 
 </div>
 
