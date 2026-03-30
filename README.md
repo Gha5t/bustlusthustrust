@@ -53,8 +53,7 @@ Whether you’re dodging class, killing time in study hall, or just need a menta
 
 Homework Planet stays **free forever** because of legends like you.
 
-- Disable your adblocker for a minute  
-- Drop a donation on [Ko-fi](https://ko-fi.com/homeworkplanet)  
+- Disable your adblocker for a minute 
 - Star this repo ⭐  
 - Share with your friends on TikTok / Discord
 
@@ -64,8 +63,8 @@ Every bit helps keep the servers running and new games coming.
 
 **Made with 🔥 for students who just want to play.**
 
-**Website:** [homeworkplanet.github.io](https://homeworkplanet.github.io)  
-**Discord / TikTok / Instagram:** @homeworkplanet
+**Website:** [https://gha5t.github.io/bustlusthustrust](https://gha5t.github.io/bustlusthustrust)  
+
 
 ---
 
